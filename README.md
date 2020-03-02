@@ -11,3 +11,6 @@ The goal of this game is to tilt the phone to move the green dot while avoiding 
 creates by Thibaud BAYOL.
 
 Made in France.
+
+PS: si le jeu s'arrete vous pouvez recomencer avec le bouton en haut a gauche.
+PS: if the game stop you can re start with the swithe on the top corner left.
